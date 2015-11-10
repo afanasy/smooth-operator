@@ -2,6 +2,7 @@ Javascript operators as functions
 
 ## Example
 ```js
+// supported operators ['+', '-', '*', '/', '%', '<<', '>>', '>>>', '&', '^', '|']
 var o = require('smooth-operator')
 o('+', 1)(2)
 // returns 3

@@ -1,6 +1,6 @@
 {
   "name": "smooth-operator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript operators as functions",
   "scripts": {
     "test": "node test"

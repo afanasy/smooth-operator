@@ -2,6 +2,7 @@ Javascript operators as functions
 
 ```js
 var o = require('smooth-operator')
+// o(operator, y)(x) === x operator y
 o('+', 1)(2)
 // returns 3
 [1, 2, 3].map(o('+', 1))
